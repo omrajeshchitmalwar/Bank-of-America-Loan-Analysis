@@ -2,8 +2,8 @@
 <br>
 The Bank of America Loan Report Analysis in Excel is a robust project aimed at providing comprehensive insights into the bank's loan portfolio. It encompasses various key metrics and parameters essential for evaluating loan performance and trends.
 <br>
-![Bank Loan - 1](https://github.com/omrajeshchitmalwar/Bank-of-America-Loan-Analysis/assets/92293388/10760531-adbe-4490-8b84-470f40823950)<br>
-![Bank Loan - 2](https://github.com/omrajeshchitmalwar/Bank-of-America-Loan-Analysis/assets/92293388/810e98ed-bdbd-42da-a822-7aea844bf033)
+![Bank Loan - 1](https://github.com/omrajeshchitmalwar/Bank-of-America-Loan-Analysis/assets/92293388/b4568db0-e528-4735-aef4-4434ea2d4274)
+
 <br>
 Give this repository a ⭐ if you liked it, since it took me time to analyze and design this.<br>
 Made with ❤️ by <b>Om Rajesh Chitmalwar<b>
